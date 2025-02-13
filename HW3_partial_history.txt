@@ -1,0 +1,500 @@
+   28  python3 runtimeanalysis.py 
+   29  cd ..
+   30  git remote -v
+   31  git add .
+   32  history | tail -n 10000 > historysec2.txt
+   33  ls
+   34  mv historysec2.txt SEC2TASK1_history2.txt
+   35  ls
+   36  git add .
+   37  git status
+   38  git push -u origin main
+   39  git add .
+   40  git commit -m "section 2 final push"
+   41  git config --global user.name "cornnat"
+   42  git config --global user.email "nataliekim@ucsb.edu
+   43  git config
+   44  git config --global --list
+   45  git config --global user.email "nataliekim@ucsb.edu"
+   46  git config --global --list
+   47  git add .
+   48  git commit -m "final sec 2 push"
+   49  git status
+   50  git push -u origin main
+   51  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   52  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   53  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   54  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   55  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   56  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   57  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   58  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   59  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   60  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   61  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   62  /usr/bin/python3 /root/Desktop/host/HW2/HW2P1.py
+   63  ls
+   64  cd HW2
+   65  ls
+   66  code HW2P1.py 
+   67  python3 HW2P1.py 
+   68  python3 HW2P1.py 
+   69  python3 HW2P1.py 
+   70  python3 HW2P1.py 
+   71  python3 HW2P1.py 
+   72  python3 HW2P1.py 
+   73  python3 HW2P1.py 
+   74  python3 HW2P1.py 
+   75  python3 HW2P1.py 
+   76  python3 HW2P1.py 
+   77  python3 HW2P1.py 
+   78  python3 HW2P1.py 
+   79  python3 HW2P1.py 
+   80  python3 HW2P1.py 
+   81  python3 HW2P1.py 
+   82  git init
+   83  history | tail -n 10000 > HW2_history.txt
+   84  ls
+   85  git remote -v
+   86  git add .
+   87  git commit -m "finished last few parts of problem 1 and adding terminal history"
+   88  git push origin main
+   89  git config --global list
+   90  git config --global --list
+   91  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   92  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   93  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   94  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   95  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   96  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+   97  python3 HW2P2.py
+   98  ls
+   99  cd hw2
+  100  ls
+  101  python3 HW2P2.py
+  102  cd ..
+  103  cd HW2
+  104  python3 HW2P2.py 
+  105  ls
+  106  python HW2P2.py 
+  107  python3 HW2P2.py 
+  108  python3 HW2P2.py 
+  109  python3 HW2P2.py 
+  110  python3 HW2P2.py 
+  111  python3 HW2P2.py 
+  112  python3 HW2P2.py 
+  113  python3 HW2P2.py 
+  114  python3 HW2P2.py 
+  115  python3 HW2P2.py 
+  116  python3 HW2P2.py 
+  117  python3 HW2P2.py 
+  118  python3 HW2P2.py 
+  119  python3 HW2P2.py 
+  120  python3 HW2P2.py 
+  121  python3 HW2P2.py 
+  122  ls
+  123  history | tail -n 100000 >> HW2_history.txt 
+  124  code HW2P3.py
+  125  cd
+  126  cd .
+  127  ls
+  128  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  129  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  130  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  131  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  132  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  133  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  134  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  135  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  136  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  137  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  138  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  139  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  140  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  141  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  142  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  143  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  144  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  145  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  146  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  147  ls
+  148  cd SEC2
+  149  ls
+  150  cp /root/Desktop/host/SEC2/mesh.dat /root/Desktop/host/HW2/
+  151  ls
+  152  cd ..
+  153  cd HW2
+  154  ls
+  155  cd ..
+  156  cd ../SEC2
+  157  cd ./SEC2
+  158  ls
+  159  code task1
+  160  cd task1
+  161  ls
+  162  cd visualize_data.py 
+  163  code visualize_data.py 
+  164  code monotone_chain.py
+  165  cd ..
+  166  cd ..
+  167  ls
+  168  cd HW2
+  169  ls
+  170  python3 HW2P3.py 
+  171  python3 HW2P3.py 
+  172  python3 HW2P3.py 
+  173  python3 HW2P3.py 
+  174  python3 HW2P3.py 
+  175  python3 HW2P3.py 
+  176  python3 HW2P3.py 
+  177  python3 HW2P3.py 
+  178  python3 HW2P3.py 
+  179  code HW2P3_H.py
+  180  python3 HW2P3.py 
+  181  python3 HW2P3.py 
+  182  python3 HW2P3.py 
+  183  python3 HW2P3.py 
+  184  python3 HW2P3.py 
+  185  python3 HW2P3.py 
+  186  python3 HW2P3.py 
+  187  python3 HW2P3_H.py 
+  188  ls
+  189  code HW2P1.py
+  190  code HW2P1_plots
+  191  rm HW2P1_plots
+  192  ls
+  193  code HW2P2.py 
+  194  python3 HW2P2.py
+  195  ls
+  196  HW2P3.py
+  197  code HW2P3.py
+  198  python3 HW2P3.py
+  199  code HW2P3_H.py
+  200  python3 HW2P3_H.py
+  201  ls
+  202  ls
+  203  history | tail -n 10000 >> HW2_history.txt 
+  204  git init
+  205  git remote -v
+  206  git add .
+  207  git status
+  208  git commit -m "final HW2 push i hope"
+  209  git push origin main
+  210  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  211  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  212  /usr/local/bin/python /root/Desktop/host/SEC2/task1/monotone_chain.py
+  213  /usr/local/bin/python /root/Desktop/host/SEC2/task1/monotone_chain.py
+  214  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  215  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  216  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  217  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  218  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  219  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  220  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  221  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  222  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  223  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  224  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  225  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  226  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  227  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  228  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  229  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  230  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  231  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  232  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3_H.py
+  233  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  234  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  235  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  236  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3_H.py
+  237  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  238  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3_H.py
+  239  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+  240  /usr/local/bin/python /root/Desktop/host/HW2/HW2P2.py
+  241  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3.py
+  242  /usr/local/bin/python /root/Desktop/host/HW2/HW2P3_H.py
+  243  ls
+  244  ls
+  245  cd SEC3
+  246  git init
+  247  git remote -v
+  248  git remote -v https://github.com/cornnat/SEC3.git
+  249  git remote set-url https://github.com/cornnat/SEC3.git
+  250  git remote set-url --add  https://github.com/cornnat/SEC3.git
+  251  git remote add origin https://github.com/cornnat/SEC3.git
+  252  git branch -M main
+  253  git checkout main
+  254  git branch
+  255  git switch main
+  256  git branch -r
+  257  git status
+  258  git checkout main
+  259  git checkout -b main
+  260  git remote -v
+  261  ls
+  262  touch turing_machine.py
+  263  code turing_machine.py
+  264  python3 turing_machine.py 
+  265  ls
+  266  cat tape_101_110.dat 
+  267  python3 turing_machine.py 
+  268  python3 turing_machine.py 
+  269  python3 turing_machine.py 
+  270  python3 turing_machine.py 
+  271  python3 turing_machine.py 
+  272  python3 turing_machine.py 
+  273  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  274  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  275  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  276  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  277  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  278  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  279  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  280  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  281  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  282  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  283  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  284  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  285  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  286  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  287  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  288  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  289  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  290  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  291  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  292  python3 turing_machine.py
+  293  cd SEC3
+  294  python3 turing_machine.py
+  295  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  296  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  297  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  298  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  299  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  300  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  301  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  302  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  303  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  304  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  305  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  306  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  307  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  308  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  309  cd SEC3
+  310  python3 turing_machine.py 
+  311  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  312  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  313  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  314  cat output.dat 
+  315  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  316  cd SEC3
+  317  python3 turing_machine.py 
+  318  python3 turing_machine.py 
+  319  ls
+  320  cat turing_multiplication.dat 
+  321  code turing_multiplication.dat 
+  322  python3 turing_machine.py 
+  323  python3 turing_machine.py 
+  324  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  325  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  326  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  327  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  328  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  329  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  330  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  331  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  332  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  333  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  334  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  335  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  336  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  337  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  338  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  339  /usr/local/bin/python /root/Desktop/host/SEC3/turing_machine.py
+  340  cd SEC3
+  341  python3 turing_machine.py 
+  342  cat states_count.txt 
+  343  python3 turing_machine.py 
+  344  cat output1.dat 
+  345  cat output2.dat 
+  346  cat states_count.txt 
+  347  python3 turing_machine.py 
+  348  python3 turing_machine.py 
+  349  python3 turing_machine.py 
+  350  python3 turing_machine.py 
+  351  python3 turing_machine.py 
+  352  python3 turing_machine.py 
+  353  cat states_count_SEC3_B_tape1.txt
+  354  cat states_count_SEC3_B_tape2.txt
+  355  python3 turing_machine.py 
+  356  cat states_count_SEC3_B_tape2.txt
+  357  cat states_count_SEC3_B_tape2.txt
+  358  cat states_count_SEC3_B_tape1.txt
+  359  python3 turing_machine.py 
+  360  cat states_count_SEC3_B_tape1.txt
+  361  cat states_count_SEC3_B_tape2.txt
+  362  python3 turing_machine.py 
+  363  cat states_count_SEC3_C_tape1.txt 
+  364  python3 turing_machine.py 
+  365  python3 turing_machine.py 
+  366  python3 turing_machine.py 
+  367  ls
+  368  mkdir partD_plots
+  369  mv SEC3_D_L_3,2_states_histogram.png partD_plots
+  370  mv SEC3_D_L_2,3_states_histogram.png partD_plots
+  371  ls
+  372  python3 turing_machine.py 
+  373  python3 turing_machine.py 
+  374  python3 turing_machine.py 
+  375  history | tail -n 1000000000000 >>  SEC3_history.txt
+  376  ls
+  377  git add .
+  378  git status
+  379  git add .
+  380  git status
+  381  git commit -m "the py file is melting my laptop GL"
+  382  git push origin main
+  383  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  384  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  385  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  386  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  387  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  388  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  389  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  390  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  391  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  392  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  393  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  394  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  395  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  396  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  397  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task1.py
+  398  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  399  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  400  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  401  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  402  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  403  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  404  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  405  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  406  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  407  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  408  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  409  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2.py
+  410  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q1.py
+  411  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q1.py
+  412  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q1.py
+  413  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q2.py
+  414  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q2.py
+  415  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q2.py
+  416  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q2.py
+  417  /usr/local/bin/python /root/Desktop/host/SEC4/SEC4_task2_Q1.py
+  418  ls
+  419  cd SEC4
+  420  git remote add https://github.com/cornnat/SEC4.git
+  421  git init
+  422  git checkout -b main
+  423  git remote add origin https://github.com/cornnat/SEC4.git
+  424  git remote -v
+  425  code SEC4_task1.py
+  426  python3 SEC4_task1.py 
+  427  python3 SEC4_task1.py 
+  428  mkdir plots
+  429  python3 SEC4_task1.py 
+  430  python3 SEC4_task1.py 
+  431  python3 SEC4_task1.py 
+  432  python3 SEC4_task1.py 
+  433  python3 SEC4_task1.py 
+  434  python3 SEC4_task1.py 
+  435  ls
+  436  code SEC4_task2.py
+  437  code SEC4_task2.py
+  438  code SEC4_task2.py
+  439  code SEC4_task2.py
+  440  code SEC4_task1.py 
+  441  code SEC4_task2.py
+  442  code SEC4_task2.py
+  443  python3 SEC4_task2.py 
+  444  python3 SEC4_task2.py 
+  445  python3 SEC4_task2.py 
+  446  python3 SEC4_task2.py 
+  447  python3 SEC4_task2.py 
+  448  python3 SEC4_task2.py 
+  449  python3 SEC4_task2.py 
+  450  python3 SEC4_task2.py 
+  451  mv SEC4_task2.py SEC4_task2_Q1.py
+  452  ls
+  453  code SEC4_task2_Q1.py 
+  454  code SEC4_task2_Q2.py
+  455  python3 SEC4_task2_Q1.py 
+  456  python3 SEC4_task2_Q1.py 
+  457  python3 SEC4_task2_Q2.py 
+  458  python3 SEC4_task2_Q1.py 
+  459  git add .
+  460  git commit -m "all me sec4 work"
+  461  git push origin main
+  462  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  463  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  464  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  465  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  466  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  467  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  468  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  469  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  470  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  471  code test.py
+  472  /usr/local/bin/python /root/Desktop/host/test.py
+  473  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  474  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  475  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  476  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  477  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  478  /usr/local/bin/python /root/Desktop/host/test.py
+  479  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  480  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  481  /usr/local/bin/python /root/Desktop/host/test.py
+  482  /usr/local/bin/python /root/Desktop/host/test.py
+  483  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  484  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  485  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  486  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  487  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  488  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  489  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  490  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  491  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  492  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  493  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  494  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  495  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  496  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  497  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  498  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  499  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  500  /usr/local/bin/python /root/Desktop/host/HW3/Q1.py
+  501  cd HW3
+  502  ls
+  503  gitinit
+  504  git init
+  505  git remote -v
+  506  git branch
+  507  git checkout -m main
+  508  git checkout -b main
+  509  python3 Q1.py 
+  510  git clone https://github.com/Physics-129AL/Local_density_of_states_near_band_edge.git
+  511  ls
+  512  cd Local_density_of_states_near_band_edge/
+  513  ls
+  514  cd ..
+  515  code Q2.py
+  516  mkdir Q2_plots
+  517  cd Local_density_of_states_near_band_edge/
+  518  ls
+  519  cat local_density_of_states_for_level_0.txt
+  520  cd ..
+  521  python3 Q2
+  522  python3 Q2.py 
+  523  python3 Q2.py 
+  524  python3 Q2.py 
+  525  python3 Q2.py 
+  526  python3 Q2.py 
+  527  history | tail -n 10000 >> HW3_partial_history.txt
